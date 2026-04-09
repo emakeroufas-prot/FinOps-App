@@ -1,4 +1,4 @@
-# EmailOps
+# FinOps App
 
 A Windows desktop application built with Python and CustomTkinter for creating Outlook draft emails, reviewing company contact information from Excel, and automating monthly report email drafts with attachments.
 
